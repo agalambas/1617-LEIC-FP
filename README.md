@@ -5,3 +5,6 @@
 
 #### Language
 Python
+
+#### Run
+´´´python3 test.py´´´
