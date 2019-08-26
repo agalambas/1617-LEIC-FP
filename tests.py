@@ -1,4 +1,4 @@
-from <o nome do ficheiro do seu projecto> import *
+from functions import *
 
 chave = (('A', 'B', 'C', 'D', 'E'), ('F', 'G', 'H', 'I', 'J'), (' ', 'L', 'M', 'N', 'O'), ('P', 'Q', 'R', 'S', 'T'), ('U', 'V', 'X', 'Z', '.'))
 cad = 'FUNDAMENTOS DA PROGRAMACAO'
